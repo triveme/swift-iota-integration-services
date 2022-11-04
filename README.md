@@ -1,6 +1,7 @@
 
 # ``swift-iota-integration-services``
 
+
 This package implements the APIs of the IOTA integration services.
 
 Official Iota Github repo: https://github.com/iotaledger/integration-services
@@ -10,7 +11,7 @@ Official Iota Github repo: https://github.com/iotaledger/integration-services
 
 This package is still under development and should be used for testing purposes only.
 Feel free to contribute to this project, fork it or reuse the source code for your own purposes.
-If you discover problems, please create an issue with a specific problem description and feel free to submit pull requests with your own code improvements.
+If you discover problems, please [create an issue](https://github.com/triveme/swift-iota-integration-services/issues/new) with a specific problem description and feel free to submit pull requests with your own code improvements.
 
 
 ## License
@@ -122,3 +123,7 @@ print(iotaIdentity)
 | `/info`                                       | GET        | Get information about the server                              |                 |
 
 For a full api reference please have a look at the official documentation: https://wiki.iota.org/integration-services/references/ssi_bridge_api_reference
+
+## Questions or feedback?
+
+Feel free to [open an issue](https://github.com/triveme/swift-iota-integration-services/issues/new), or find us [@triveme](https://twitter.com/triveme) on Twitter.
