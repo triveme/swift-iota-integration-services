@@ -16,6 +16,7 @@ If you discover problems, please create an issue with a specific problem descrip
 ## License
 
 ![GitHub](https://img.shields.io/github/license/triveme/swift-iota-integration-services)
+
 swift-iota-integration-services can be used, distributed and modified under the EUPL v1.2 license.
 
 
