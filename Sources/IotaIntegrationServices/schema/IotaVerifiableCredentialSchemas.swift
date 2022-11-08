@@ -328,6 +328,12 @@ public struct IotaVerifiableCredentialStatusSchema: Codable, Hashable {
     public var id: String
     public var type: String
     public var revocationBitmapIndex: String
+
+    public init(id: String, type: String, revocationBitmapIndex: String) {
+        self.id = id
+        self.type = type
+        self.revocationBitmapIndex = revocationBitmapIndex
+    }
 }
 
 /// Schema for iota verifiable credential object.
